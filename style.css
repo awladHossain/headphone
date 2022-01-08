@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+body{
+	font-family: 'PT Serif', serif;
+}
+.manu-bar, .navbar, ul li a: hover{
+	background-color: red;
+	border-bottom: 2px solid;
+}
+.slider-part img{
+	height: 500px;
+}
+.about-us img{
+	height: 500px;
+	border-radius: 15px 50px;
+}
+.f-image img{
+	height: 500px;
+}
+.Features-part img{
+	background-color: white;
+
+
+}
